@@ -1,16 +1,19 @@
 # app
 
-A new Flutter project.
+Calculator flutter Android app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run execute 
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Exemple app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Name: Marlon
+
+Weight: 83,4
+
+Height: 1,70
+
+Output: Marlon seu IMC é: 28.86 classificado como: Sobrepeso! 
